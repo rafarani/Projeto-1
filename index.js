@@ -23,3 +23,4 @@ for(i=0; i<array.length; i++){
     }
 }
 console.log(`faltam ${contador2} para chegar no indice ${indiceX}`)
+//adicionando comentário no final
