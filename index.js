@@ -10,3 +10,5 @@ while(contador > 0){
     console.log(array);
     contador--;
 }
+
+console.log(`próximo elemento: ${array[0]}`)
